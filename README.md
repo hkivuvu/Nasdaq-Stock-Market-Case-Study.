@@ -1,1 +1,1 @@
-# Nasdaq Stock Market Case Study.
+# Nasdaq Stock Market Case Study
